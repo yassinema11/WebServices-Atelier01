@@ -37,7 +37,7 @@
             echo "<p><strong>Numéro CIN:</strong> $Cin</p>";
             echo "<p><strong>Moyenne Semestre 1 :</strong> $MoySem1</p>";
             echo "<p><strong>Moyenne Semestre 2 :</strong> $MoySem2</p>";
-            echo "<p><strong>Moyenne Générale :</strong> $MoySem</p>";
+            echo "<p><strong>Moyenne Générale :</strong> $MoyGen</p>";
         ?>
     </div>
 </body>
